@@ -1,0 +1,15 @@
+{
+  "name": "justins_first_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start_http": "nodemon http_server.js"
+  },
+  "author": "Justin Yurasits",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
