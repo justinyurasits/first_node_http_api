@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start_http": "nodemon http_server.js"
+    "http_server": "nodemon http_server.js",
+    "express_server": "nodemon express_server.js"
   },
   "author": "Justin Yurasits",
   "license": "MIT",
